@@ -50,6 +50,8 @@ datasets/
 *.zip
 *.tar.gz
 *.tar
+!mini_tasks/**/data/
+!mini_tasks/**/data/**
 
 # TensorBoard logs
 runs/

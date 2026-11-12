@@ -50,6 +50,9 @@ datasets/
 *.zip
 *.tar.gz
 *.tar
+*.csv
+*.xlsx
+*.txt
 !mini_tasks/**/data/
 !mini_tasks/**/data/**
 
